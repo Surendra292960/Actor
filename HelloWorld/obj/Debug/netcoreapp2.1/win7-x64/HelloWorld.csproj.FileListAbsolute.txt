@@ -1,0 +1,17 @@
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.exe
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.deps.json
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.runtimeconfig.json
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.runtimeconfig.dev.json
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.dll
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.pdb
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+G:\C#.NetPrograms\MyApplication2\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb
+G:\C#.NetPrograms\MyApplication2\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csprojAssemblyReference.cache
+G:\C#.NetPrograms\MyApplication2\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\MyApplication2\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.AssemblyInfoInputs.cache
+G:\C#.NetPrograms\MyApplication2\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.AssemblyInfo.cs
+G:\C#.NetPrograms\MyApplication2\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csproj.CopyComplete
+G:\C#.NetPrograms\MyApplication2\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.dll
+G:\C#.NetPrograms\MyApplication2\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.pdb

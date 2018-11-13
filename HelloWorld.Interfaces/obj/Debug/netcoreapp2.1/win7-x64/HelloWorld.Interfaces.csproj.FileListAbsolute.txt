@@ -1,0 +1,8 @@
+G:\C#.NetPrograms\MyApplication2\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.deps.json
+G:\C#.NetPrograms\MyApplication2\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+G:\C#.NetPrograms\MyApplication2\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb
+G:\C#.NetPrograms\MyApplication2\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\MyApplication2\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.AssemblyInfoInputs.cache
+G:\C#.NetPrograms\MyApplication2\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.AssemblyInfo.cs
+G:\C#.NetPrograms\MyApplication2\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+G:\C#.NetPrograms\MyApplication2\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb

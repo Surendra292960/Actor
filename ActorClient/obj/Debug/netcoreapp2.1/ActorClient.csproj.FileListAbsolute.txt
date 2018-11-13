@@ -1,0 +1,14 @@
+G:\C#.NetPrograms\MyApplication2\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.deps.json
+G:\C#.NetPrograms\MyApplication2\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.json
+G:\C#.NetPrograms\MyApplication2\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.dev.json
+G:\C#.NetPrograms\MyApplication2\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.dll
+G:\C#.NetPrograms\MyApplication2\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csprojAssemblyReference.cache
+G:\C#.NetPrograms\MyApplication2\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\MyApplication2\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfoInputs.cache
+G:\C#.NetPrograms\MyApplication2\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfo.cs
+G:\C#.NetPrograms\MyApplication2\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.pdb
+G:\C#.NetPrograms\MyApplication2\ActorClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.dll
+G:\C#.NetPrograms\MyApplication2\ActorClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.pdb
+G:\C#.NetPrograms\MyApplication2\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CopyComplete
+G:\C#.NetPrograms\MyApplication2\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.dll
+G:\C#.NetPrograms\MyApplication2\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.pdb
